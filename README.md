@@ -1,12 +1,15 @@
 # ⭐ Awesome Stars
 
-> @MaoYo42 的 GitHub Star 收藏，按主题自动分类。共 534 个项目。
+> @MaoYo42 的 GitHub Star 收藏，按主题自动分类。共 487 个项目。
+
+## # ⭐ Awesome Stars
+
+> @MaoYo42 的 GitHub Star 收藏，按主题自动分类。共 487 个项目。
 
 ## 目录
 
 - [🤖 AI / LLM / Agent](#🤖-ai--llm--agent) (160)
 - [🔧 开发者工具 / CLI](#🔧-开发者工具--cli) (85)
-- [🌐 网络 / 代理 / 安全](#🌐-网络--代理--安全) (47)
 - [💰 搞钱 / 自动化 / 爬虫](#💰-搞钱--自动化--爬虫) (25)
 - [📱 App / 前端 / 设计](#📱-app--前端--设计) (68)
 - [📚 学习资源 / 教程](#📚-学习资源--教程) (40)
@@ -269,58 +272,6 @@
 | [dh4rm4/A-Reasonably-Secure-Thinkpad](https://github.com/dh4rm4/A-Reasonably-Secure-Thinkpad) | 8 | - | How to build a reasonably secure t480s Thinkpad |
 | [QQ767172261/Building-a-Road-Crack-Identification-Detection-System-with-Pit-Alarm-and-Crack-Count-Function-Based-](https://github.com/QQ767172261/Building-a-Road-Crack-Identification-Detection-System-with-Pit-Alarm-and-Crack-Count-Function-Based-) | 2 | - | 基于YOLOv11训练RDD2022道路瑕疵数据集 构建具有坑洞报警和裂缝计数功能的道路裂缝识别检测系统 深度学习yol |
 | [faemon/GitNotes](https://github.com/faemon/GitNotes) | 1 | - | Git笔记，总结了一些常见命令。 |
-
-## 🌐 网络 / 代理 / 安全
-
-| 项目 | ⭐ | 语言 | 简介 |
-|------|-----|------|------|
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 281,781 | - | A list of Free Software network services and web application |
-| [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 99,004 | Dockerfile | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Si |
-| [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | 35,977 | Kotlin | A rule-based tunnel for Android. |
-| [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) | 27,461 | JavaScript | edgetunnel 2.0 VLESS/Trojan 多功能面板 |
-| [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | 25,225 | Go | 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解 |
-| [pavlobu/deskreen](https://github.com/pavlobu/deskreen) | 20,437 | TypeScript | Deskreen turns any device with a web browser into a secondar |
-| [HabitRPG/habitica](https://github.com/HabitRPG/habitica) | 13,754 | JavaScript | A habit tracker app which treats your goals like a Role Play |
-| [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) | 13,751 | JavaScript | CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/h |
-| [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | 13,643 | Python | Simple, unified interface to multiple Generative AI provider |
-| [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | 12,879 | TypeScript | Clash Nyanpasu～(∠・ω< )⌒☆​ |
-| [wanglin2/mind-map](https://github.com/wanglin2/mind-map) | 11,905 | JavaScript | SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map. |
-| [hwanz/SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan) | 11,279 | - | 机场推荐与机场评测 |
-| [KaringX/karing](https://github.com/KaringX/karing) | 10,351 | Dart | Simple & Powerful proxy utility, Support routing rules for c |
-| [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | 8,986 | JavaScript | 📱 Display and control your Android device graphically with s |
-| [Ackites/Nrfr](https://github.com/Ackites/Nrfr) | 6,920 | Kotlin | 🌍 免 Root 的 SIM 卡国家码修改工具 \| 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化 |
-| [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) | 6,775 | - | Blockchain dark forest selfguard handbook. Master these, mas |
-| [KaringX/clashmi](https://github.com/KaringX/clashmi) | 5,638 | Dart | Clash Mihomo for iOS/MacOS/Android/Windows/Linux |
-| [666OS/ClashMac](https://github.com/666OS/ClashMac) | 4,935 | - | Native Proxy Experience Built for macOS |
-| [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | 4,913 | TypeScript | Open-source intelligence for the global theater. Track every |
-| [clashdownload/Clash](https://github.com/clashdownload/Clash) | 4,066 | - | Clash官网各版本Clash下载地址及备份下载地址 |
-| [KeiKinn/ShadowsocksBio](https://github.com/KeiKinn/ShadowsocksBio) | 3,930 | - | 记录一下Shadowsocks的前世今生，以及一个简单的教程总结 |
-| [hideuvpn/android-google-play-store](https://github.com/hideuvpn/android-google-play-store) | 3,355 | - | 安装谷歌三件套：google服务框架 ; google play service ;google play store  |
-| [martpie/museeks](https://github.com/martpie/museeks) | 2,096 | TypeScript | 🎵 A simple, clean and cross-platform music player |
-| [ffffffff0x/Dork-Admin](https://github.com/ffffffff0x/Dork-Admin) | 1,911 | - | 盘点近年来的数据泄露、供应链污染事件 |
-| [ArchLinuxStudio/ArchLinuxTutorial](https://github.com/ArchLinuxStudio/ArchLinuxTutorial) | 1,852 | - | ✨Arch Linux安装使用教程 每日实时更新！ \| 包含ArchLinux从安装到日常使用、娱乐、编程、媒体制作的各 |
-| [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) | 1,675 | - | FlyClash Android |
-| [xisuo67/XHS-Spider](https://github.com/xisuo67/XHS-Spider) | 1,367 | - | 小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载，视频提取，图片）Telegram:ht |
-| [FriesI23/mhabit](https://github.com/FriesI23/mhabit) | 1,257 | Dart | Our app helps you form and track micro habits with easy-to-u |
-| [omegaee/my-fingerprint](https://github.com/omegaee/my-fingerprint) | 1,174 | TypeScript | 保护你的浏览器指纹 \| Protect Your Browser Fingerprints \| Chrome, Edge |
-| [manualdousuario/marreta](https://github.com/manualdousuario/marreta) | 1,142 | PHP | Uma ferramenta que quebra barreiras de acesso e elementos qu |
-| [GtxFury/FlyClash](https://github.com/GtxFury/FlyClash) | 1,134 | TypeScript | 简洁美观的代理工具 |
-| [tombcato/clash-ip-checker](https://github.com/tombcato/clash-ip-checker) | 993 | Python | 🤖Automated node IP risk checking and tagging tool for Clash  |
-| [zhangyu1818/appicon-forge](https://github.com/zhangyu1818/appicon-forge) | 987 | TypeScript | An intuitive app icon generator that lets you customize colo |
-| [UCYBERS/Awesome-Blackhat-Tools](https://github.com/UCYBERS/Awesome-Blackhat-Tools) | 781 | - | A curated list of tools officially presented at Black Hat ev |
-| [ImCa0/just-laws](https://github.com/ImCa0/just-laws) | 709 | Python | 一个简洁、便捷的中国法律文库 \| A Simple and Convenient Laws Library of Chi |
-| [WCY-dt/EasyTransfer](https://github.com/WCY-dt/EasyTransfer) | 675 | TypeScript | A 🌟free, 🫣anonymous, 🔐encrypted, and 🚀easy-to-use E2EE file  |
-| [Efeckc17/simple-todo-c](https://github.com/Efeckc17/simple-todo-c) | 562 | C | A lightweight, native Windows Todo application built with pu |
-| [echoshare/echoshare](https://github.com/echoshare/echoshare) | 482 | Vue | Echoshare 是一款开箱即用且支持高度自定义配置的在线媒体共享应用，可同时传输屏幕画面、摄像头视频流、麦克风音频流 |
-| [f3nter/HardBreak](https://github.com/f3nter/HardBreak) | 458 | - | A Wiki about Hardware Hacking |
-| [bwya77/DockAnchor](https://github.com/bwya77/DockAnchor) | 414 | Swift | DockAnchor is a simple macOS utility that stops the Dock fro |
-| [MXWXZ/FuckBaiduPanPwd](https://github.com/MXWXZ/FuckBaiduPanPwd) | 367 | Python | 一个暴力破解百度网盘密码的小工具 A simple tool to fuck baidu pan password |
-| [glinford/dns-easy-switcher](https://github.com/glinford/dns-easy-switcher) | 330 | Swift | DNS Easy Switcher (for MacOS) |
-| [TianWen-Lab/TranSec](https://github.com/TianWen-Lab/TranSec) | 314 | - | Internet of Vehicles Penetration testing OS.车联网渗透测试系统，开箱即用的测 |
-| [Rico00121/decktap](https://github.com/Rico00121/decktap) | 288 | TypeScript | A lightweight local-network presentation remote. Control you |
-| [AstroPrint/AstroBox](https://github.com/AstroPrint/AstroBox) | 177 | Python | AstroBox allows you to control your 3D Printer wirelessly |
-| [XiaomingX/awesome-chinese-law](https://github.com/XiaomingX/awesome-chinese-law) | 97 | - | 一个网络安全法律法规、安全政策、国家标准、行业标准知识库。A knowledge base of cybersecuri |
-| [Ennan010/crack-detection-unet](https://github.com/Ennan010/crack-detection-unet) | 40 | Python | Simple Crack detection using a u-net network, incorporating  |
 
 ## 💰 搞钱 / 自动化 / 爬虫
 
